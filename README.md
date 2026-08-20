@@ -17,4 +17,4 @@ Um script em Python simples e eficiente projetado para organizar automaticamente
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/file-organizer-python.git](https://github.com/seu-usuario/file-organizer-python.git)
+   git clone [https://github.com/shadowvoidh/file-organizer-python.git](https://github.com/shadowvoidh/file-organizer-python.git)
