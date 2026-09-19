@@ -1,3 +1,5 @@
+**[PT-BR ]** |   **[[ENG 🇺🇸 ]](README.en.md)**
+
 # 📂 Auto File Sorter (Organizador de Arquivos)
 
 Um script em Python simples e eficiente projetado para organizar automaticamente a pasta de Downloads (ou qualquer outro diretório) movendo arquivos para pastas categorizadas de acordo com suas extensões.
